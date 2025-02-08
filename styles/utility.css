@@ -13,7 +13,11 @@
 
 .gap-16 {
     gap: 16px;
-} 
+}
+
+.gap-21 {
+    gap: 32px;
+}
 
 .text-2xl {
     font: var(--h1);
